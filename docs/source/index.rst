@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Nettruyencc - Trang Web Đọc Truyện Online Đa Thể Loại, Cập Nhật Liên Tục
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nettruyencc <https://nettruyencc.net/>`_ là trang web đọc truyện online, mang đến cho bạn trải nghiệm đọc truyện chữ, truyện hay và truyện full với danh sách truyện phong phú. Nettruyencc cung cấp đầy đủ các thể loại truyện như tiên hiệp, kiếm hiệp, ngôn tình, xuyên không, và nhiều thể loại hấp dẫn khác. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Đặc biệt, các truyện hot và mới nhất đều được cập nhật liên tục, giúp bạn dễ dàng tìm kiếm theo chương và phân loại chi tiết. Nettruyencc còn có giao diện thân thiện với mọi thiết bị, từ điện thoại di động đến máy tính bảng, đem lại sự tiện lợi tối đa cho người đọc. Đăng ký email để nhận thông tin mới nhất và khám phá ngay kho truyện đa dạng tại Nettruyencc.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: Đ. Trường Chinh/14 Hẻm 191, Khu phố 2, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0965004716. 
 
-.. toctree::
+Email: info@nettruyencc.net. 
 
-   usage
-   api
+Website: https://nettruyencc.net/ 
+
+#nettruyen #trangchunettruyen #dangkynettruyen #dangnhapnettruyen #linknettruyen
